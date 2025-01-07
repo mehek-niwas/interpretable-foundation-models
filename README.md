@@ -1,4 +1,4 @@
-# Probabilistic Conceptual Explainers <br> for Foundation Models
+# Probabilistic Conceptual Explainers for Foundation Models
 This repo contains the code and data for our PACE (ICML 2024 paper):
 
 **Probabilistic Conceptual Explainers: Trustworthy Conceptual Explanations for Vision Foundation Models**<br>
@@ -10,7 +10,7 @@ and our VALC (EMNLP 2024 Findings paper):
 **Variational Language Concepts for Interpreting Foundation Language Models**<br>
 [[Paper](http://www.wanghao.in/paper/EMNLP24_VALC.pdf)] [[ACL Website](https://aclanthology.org/2024.findings-emnlp.505/)]
 
-## Probabilistic Conceptual Explainers (PACE) <br> for Vision Transformers
+## Probabilistic Conceptual Explainers (PACE) for Vision Transformers
 
 ![More_Random_Samples_Color](https://github.com/user-attachments/assets/f39aa0c6-3427-428e-ada9-aa9880d0ca09)
 
@@ -42,7 +42,7 @@ python main.py --train  --task Color --name ViT-PACE --num_epochs 1
 python main.py  --task Color --name ViT-PACE --num_epochs 1
 ```
 
-## Probabilistic Conceptual Explainers (VALC) <br> for Pretrained Language Models
+## Probabilistic Conceptual Explainers (VALC) for Pretrained Language Models
 
 Coming Soon!
 
